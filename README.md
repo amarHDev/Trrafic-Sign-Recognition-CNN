@@ -18,7 +18,7 @@ The GTSRB dataset is a challenging dataset due to the varying light conditions a
 
 2- Install the required packages: 'pip install -r requirements.txt'
 
-3- Download the GTSRB dataset from the official website (http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) and extract it to the project directory.
+3- Download the GTSRB dataset from the official website (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) and extract it to the project directory.
 
 4- Run the jupyer file : preprocessing.ipynb for preprocessing data
 
