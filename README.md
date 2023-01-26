@@ -8,8 +8,7 @@ The GTSRB dataset is a challenging dataset due to the varying light conditions a
 # Requirements
 
 - Python 3.x
-- Tensorflow 2.x
-- Numpy
+- Pytorch
 - Matplotlib
 - Pandas
 
