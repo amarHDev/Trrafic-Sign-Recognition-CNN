@@ -30,6 +30,6 @@ The model's performance will be evaluated using accuracy on the test dataset. Th
 
 # References
 
-The GTSRB dataset can be found on the official website (http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+The GTSRB dataset can be found on the official website (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 The paper "The German Traffic Sign Recognition Benchmark: A multi-class classification competition" (Stallkamp, J., Schlipsing, M., Salmen, J., and Igel, C.) can be found on the official website (http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
