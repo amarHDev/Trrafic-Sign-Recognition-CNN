@@ -21,9 +21,9 @@ The GTSRB dataset is a challenging dataset due to the varying light conditions a
 4- Run the jupyer file : preprocessing.ipynb for preprocessing data
 5- Run the jupyer file : Our-CNN-Model.ipynb
 
-Results
+# Results
 The model's performance will be evaluated using accuracy on the test dataset. This model can be improved by fine-tuning the hyperparameters and adding data augmentation to the dataset.
 
-References
+# References
 The GTSRB dataset can be found on the official website (http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 The paper "The German Traffic Sign Recognition Benchmark: A multi-class classification competition" (Stallkamp, J., Schlipsing, M., Salmen, J., and Igel, C.) can be found on the official website (http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
