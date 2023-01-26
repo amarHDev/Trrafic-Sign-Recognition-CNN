@@ -14,7 +14,7 @@ The GTSRB dataset is a challenging dataset due to the varying light conditions a
 
 # Usage
 
-1- Clone the repository 'git clone https://github.com/[username]/GTSRB.git'
+1- Clone the repository 'git clone https://github.com/amarHDev/Trrafic-Sign-Recognition-CNN.git'
 
 2- Install the required packages: 'pip install -r requirements.txt'
 
